@@ -7297,7 +7297,7 @@ body.single-speaker #page_caption .speaker_website
 
 .scheduleday_wrapper li.scheduleday_title
 {
-	padding: 25px;
+	padding: 10px;
 	background: #007bff;
 	width: 100%;
     box-sizing: border-box;
@@ -7354,7 +7354,7 @@ body.single-speaker #page_caption .speaker_website
 
 .scheduleday_wrapper li .scheduleday_desc
 {
-	display: inline-block;
+	/* display: inline-block; */
 }
 
 .scheduleday_wrapper li .scheduleday_title_icon
