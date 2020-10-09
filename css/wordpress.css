@@ -117,8 +117,8 @@ em
 
 #page_content_wrapper p, .page_content_wrapper p 
 {
-	padding-top: 0.7em;
-	padding-bottom: 1.3em;
+	padding-top: 0.2em;
+	padding-bottom: 0em;
 }
 
 #page_content_wrapper p:empty, .page_content_wrapper p:empty
